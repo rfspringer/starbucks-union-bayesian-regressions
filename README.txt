@@ -57,3 +57,5 @@ Negative correlations:
 This may reflect immigrant communities' hesitation to join unions due to fear of repercussions, while increased filing-to-voting time could indicate more contested elections.
 
 Town median income and election order (measuring "momentum") showed minimal correlation with election outcomes.
+
+Course project as part of STCS 6701: Probabilistic models and machine learning, Columbia University
